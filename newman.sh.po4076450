@@ -1,0 +1,10 @@
+/opt/SGE6.2u5p2/zbh/spool/node087/active_jobs/4076450.1/pe_hostfile
+node087
+node087
+node087
+node087
+node087
+node087
+node087
+node087
+rm: cannot remove ‘/tmp/4076450.1.hpc.q/rsh’: No such file or directory

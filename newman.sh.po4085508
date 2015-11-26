@@ -1,0 +1,10 @@
+/opt/SGE6.2u5p2/zbh/spool/node148/active_jobs/4085508.1/pe_hostfile
+node148
+node148
+node148
+node148
+node148
+node148
+node148
+node148
+rm: cannot remove ‘/tmp/4085508.1.hpc.q/rsh’: No such file or directory
